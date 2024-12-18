@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a scenario that leads to a ZeroDivisionError. The error is triggered when the input is zero. The initial code lacks robust error handling, and a solution is provided to address this by incorporating a try-except block.
